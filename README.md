@@ -10,7 +10,8 @@ Atividade calculo das usando as ferramentas básicas do frontend
 
 ### Link do projeto: 
 
--------
+https://anaraquelde.github.io/CalcularmediaJavaScript/
+
 ## Arquitetura do projeto
 
 ```
@@ -18,9 +19,6 @@ Atividade calculo das usando as ferramentas básicas do frontend
 ├── index.html
 ├── script.js
 ├── style.css
-└─ images/
-    ├── figura1
-    ├── figura2
-    └─ figura3
+
 
 ```
